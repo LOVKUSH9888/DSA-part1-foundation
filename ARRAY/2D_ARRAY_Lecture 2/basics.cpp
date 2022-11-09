@@ -7,5 +7,6 @@ main(){
     int arr [2][3];  // rows = 2 & column = 3
     //Initialize
     int arr[2][2] = {1,2,3,4};
+    // this can also be written as : - 
     int arr[2][2] = {1,2},{3,4};
 }
